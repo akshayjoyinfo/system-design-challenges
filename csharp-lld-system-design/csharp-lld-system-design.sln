@@ -1,14 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA3E2CD6-3F43-414B-87FE-E5BDD190F8C4}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLotSystem", "ParkingLotSystem\ParkingLotSystem.csproj", "{0D869C0A-B912-455F-B070-9F2FC024D9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{778DD434-CB25-4851-840A-E5090D044744}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +23,10 @@ Global
 		{0D869C0A-B912-455F-B070-9F2FC024D9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D869C0A-B912-455F-B070-9F2FC024D9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D869C0A-B912-455F-B070-9F2FC024D9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778DD434-CB25-4851-840A-E5090D044744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778DD434-CB25-4851-840A-E5090D044744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778DD434-CB25-4851-840A-E5090D044744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778DD434-CB25-4851-840A-E5090D044744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
